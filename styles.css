@@ -35,7 +35,6 @@ body {
 
 #contact p {
   color: #6c757d;
-  font-size: 1.6rem;
 }
 
 /* About section styles */
@@ -49,6 +48,7 @@ body {
 
 #about p {
   color: #6c757d;
+  font-size: 1.6rem;
 }
 
 /* Achievement section styles */
