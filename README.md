@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zayda L Flores</h1>
 <h3 align="center">An aspiring Cybersecurity Professional</h3>
 
-- 🔭 I’m currently finishing the **Google Cybersecurity Professional Certification**
+- 🔭 I currently finished the **Google Cybersecurity Professional Certification**
 
 - 🌱 I’m currently learning **Python, Cloud Computing, Active Directory, SIEM and Azure**
 
